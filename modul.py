@@ -1,5 +1,4 @@
-from pickle import GLOBAL
-from tkinter import Y
+
 
 
 x = 0
